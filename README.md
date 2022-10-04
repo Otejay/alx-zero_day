@@ -1,1 +1,1 @@
-My first readme
+Studying to be a Fullstack Software Engineer
